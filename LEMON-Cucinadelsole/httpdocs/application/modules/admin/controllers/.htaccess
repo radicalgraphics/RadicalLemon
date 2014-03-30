@@ -1,0 +1,4 @@
+AuthName "LSP"
+AuthUserFile "/home4/miljanmi/.htpasswds/public_html/mtestserver/lshmvc/application/modules/admin/controllers/passwd"
+AuthType Basic
+require valid-user

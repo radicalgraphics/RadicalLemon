@@ -1,0 +1,1 @@
+<?php$lang['download-text'] = "Om de mogelijke menu's te bekijken klik ";
